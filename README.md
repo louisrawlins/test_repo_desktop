@@ -7,3 +7,9 @@ I've made a change!
 If I make a bigger change:
 
 I've made a change!
+I've made a different change!
+I've made a change!
+I've made an even different change!
+I've made a change!
+I've made a change!
+I've made a change!
